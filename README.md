@@ -1,2 +1,4 @@
 # canindo_dsa_lab_3
-web development project
+My portfolio for Data structures and algorithms using Flask,HTML,Java Script, and Python
+
+
